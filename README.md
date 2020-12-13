@@ -1,0 +1,2 @@
+# Quiz-Game
+This project is a quiz game similar to the millionaire game where we provide a number of questions by levels and by category and the user has will have a number of options an it has to choose the correct answer. and in order to get help he needs points to use the help. and for him to get points he needs to buy them. and after answering a number of quetions he can get a grades that is published in games play services.
