@@ -1,4 +1,7 @@
 package go.team.quizgame;
 
-public class ProfileActivity {
+import androidx.core.app.ActivityCompat;
+
+public class ProfileActivity extends ActivityCompat {
+
 }
